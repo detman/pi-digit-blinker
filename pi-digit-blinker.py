@@ -11,9 +11,12 @@
 # The script assumes that you wired up the GPIO 17 with an LED.
 # I'm using a 330 OHM resistor.
 # The electronic layout is
-# GPIO.17 > LED(+), LED(-) > 330 OHM resistor > GND
+# GPIO-17 > LED(+), LED(-) > 330 OHM resistor > GND
+# 
+# TIS SCRIPT COMES WITH NO WARRANTY
 #
 # Copyright Detlef Hüttemann (c) 2016
+# http://www.detlef-huettemann.com
 #
 #########################################################
 import time
