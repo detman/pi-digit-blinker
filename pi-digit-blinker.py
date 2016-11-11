@@ -13,7 +13,7 @@
 # The electronic layout is
 # GPIO-17 > LED(+), LED(-) > 330 OHM resistor > GND
 # 
-# TIS SCRIPT COMES WITH NO WARRANTY
+# THIS SCRIPT COMES WITH NO WARRANTY
 #
 # Copyright Detlef Hüttemann (c) 2016
 # http://www.detlef-huettemann.com
